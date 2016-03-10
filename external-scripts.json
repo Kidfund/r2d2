@@ -8,5 +8,21 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-trello",
+  "hubot-thank-you",
+  "hubot-shipit",
+  "hubot-victory",
+  "hubot-sentimental",
+  "hubot-http-status",
+  "hubot-pager-me",
+  "hubot-business-cat",
+  "hubot-github-repo-event-notifier",
+  "hubot-mute",
+  "hubot-principles",
+  "hubot-devops-reactions",
+  "hubot-codinglove",
+  "hubot-mailchimp"
+  "hubot-google-hangouts",
+  "hubot-fliptable"
 ]
